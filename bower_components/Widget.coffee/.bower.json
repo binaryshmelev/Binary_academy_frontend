@@ -1,0 +1,38 @@
+{
+  "name": "Widget.coffee",
+  "version": "0.1.6",
+  "homepage": "https://github.com/timnew/Widget.coffee",
+  "authors": [
+    "TimNew <timnew.wti@gmail.com>"
+  ],
+  "description": "A lightweight frontend controller javascript framework",
+  "main": "dist/widget.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "wdiget",
+    "widget.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">1.7.2"
+  },
+  "_release": "0.1.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.6",
+    "commit": "6f12c929456c428969a7f297ed100e0b97c34f31"
+  },
+  "_source": "https://github.com/timnew/Widget.coffee.git",
+  "_target": "^0.1.6",
+  "_originalSource": "widget.coffee",
+  "_direct": true
+}

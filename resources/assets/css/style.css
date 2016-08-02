@@ -1,0 +1,44 @@
+.container {
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+    display: inline-block;
+}
+
+.title {
+    font-size: 96px;
+    margin-bottom: 40px;
+    color: darkgray;
+}
+
+.quote {
+    font-size: 24px;
+}
+
+.content_edit {
+    text-align: center;
+    display: inline-block;
+    width: 50%;
+}
+
+.but_edit{
+    margin-top: 10px;
+}
+
+.details {
+    text-align: left;
+}
+
+.details h1 {
+    color: coral;
+}
+
+.details h2 {
+    color: cadetblue;
+}
+
+.details h4 {
+    margin-top: 25px;
+}
